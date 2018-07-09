@@ -1,5 +1,5 @@
 
-# Verifying Transaction Inputs
+# Verifying Transactions
 
 This is a review of previous concepts.
 
